@@ -4,4 +4,10 @@
     <string name="btn_mi_noche">Mi noche</string>
     <string name="btn_adaptacion">Adaptación ocular</string>
     <string name="btn_acerca">Acerca de</string>
+
+    <!-- Pantalla de adaptacion y cronometro -->
+    <string name="titulo_adaptacion">Adaptación ocular</string>
+    <string name="minutos_hint">Minutos</string>
+    <string name="btn_iniciar">Iniciar</string>
+    <string name="btn_pausar">Pausar</string>
 </resources>
