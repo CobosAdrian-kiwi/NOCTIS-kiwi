@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">Noctis-kiwi</string>
+    <string name="app_name">NOCTIS</string>
+    <string name="lema">EL observatorio de bolsillo</string>
+    <string name="btn_mi_noche">Mi noche</string>
+    <string name="btn_adaptacion">Adaptación ocular</string>
+    <string name="btn_acerca">Acerca de</string>
 </resources>

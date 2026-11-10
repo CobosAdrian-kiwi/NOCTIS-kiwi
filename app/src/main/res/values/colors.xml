@@ -2,4 +2,6 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="noctis_fondo">#282724</color>
+    <color name="noctis_texto">#FFE7A9</color>
 </resources>

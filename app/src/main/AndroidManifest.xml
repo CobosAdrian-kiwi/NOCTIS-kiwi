@@ -12,7 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Noctiskiwi">
         <activity
-            android:name=".MainActivity"
+            android:name=".HomeActivity"
             android:exported="true"
             android:windowSoftInputMode="adjustResize">
             <intent-filter>
